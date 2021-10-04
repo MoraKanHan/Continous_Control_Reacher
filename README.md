@@ -123,6 +123,6 @@ All implementation details and results are found in <code>Report/</code> folder
     <li>[1]: V. Mnih et al., "Human-level control through deep reinforcement learning", Nature, vol. 518, no. 7540, pp. 529-533, 2015. Available: 10.1038/nature14236 [Accessed 3 September 2021].
 <li>[2]: U. Technologies, "Machine Learning Agents | Unity", Unity, 2021. [Online]. Available: https://unity.com/products/machine-learning-agents. [Accessed: 03- Sep- 2021]. 
 <li>[3]: R. Sutton and A. Barto, Reinforcement Learning, 2nd ed. 2019.
-<li>[4]: H. van Hasselt, A. Guez and D. Silver, "Deep Reinforcement Learning with Double Q-learning", 2015. [Accessed 3 September 2021].
-<li>[5]: M. Hessel et al., "Rainbow: Combining Improvements in Deep Reinforcement Learning", 2021. [Accessed 3 September 2021]. 
+<li>[4]: T. P. Lillicrap et al., "Continuous control with deep reinforcement learning", arXiv, vol. 150902971, 2015. [Accessed 4 October 2021].
+<li>[5]: T. Schaul, J. Quan, I. Antonoglou and D. Silver, "Prioritized Experience Replay", arXiv, vol. 151105952, 2016. [Accessed 4 October 2021]. 
 </ul>
